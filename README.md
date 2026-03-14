@@ -33,6 +33,6 @@
 </div>  
 
 
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=NikKononovs&&style=flat-square" align="center" />
 </div> 
